@@ -54,26 +54,25 @@ Lastly, we have several cards here that will basically deliver a consistent, sta
 > Cascade is a pretty random mechanic. Most of the time a Cascade spell is cast, the math is "what you're getting for this spell's effect + a random card." Throes cuts down the fat and lets us mainline that randomness. What this also does is turn our late game useless lands into additional lottery tickets. And as everyone who plays the lottery knows, the more tickets you buy the more likely you are to hit, so Retrace early and often.
 
 [andy hurst]: https://infinite.tcgplayer.com/author/Andy-Hurst/950c73f0-c23a-4575-9415-01ceb5fd29d8
-[tibalt, the fiend-blooded]: https://c1.scryfall.com/file/scryfall-cards/large/front/f/a/fa56d53c-836c-483d-988d-a288d0ad91bb.jpg?1592714451
-[reckless wurm]: https://c1.scryfall.com/file/scryfall-cards/large/front/8/b/8b3aa26a-ae7b-4239-948d-ce12d7f3ea41.jpg?1547517373
-
-[Violent Eruption]: https://c1.scryfall.com/file/scryfall-cards/large/front/4/1/419e6697-89ab-49f1-a867-8f86f001c80c.jpg?1568004481]
-[Fiery Temper]: https://c1.scryfall.com/file/scryfall-cards/large/front/f/c/fc8282aa-5347-44c7-8397-609aed82bc8c.jpg?1568004398
-[Scourge Devil]: https://c1.scryfall.com/file/scryfall-cards/large/front/5/6/565033d2-7cb9-4ee2-b952-45745b9a2ecc.jpg?1593813576
-[Vithian Stinger]: https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/dbca500a-f349-4873-a2d5-f8dfbd957a3d.jpg?1593813619
-[Unearth]: https://c1.scryfall.com/file/scryfall-cards/large/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767
-[Goblin Bangchuckers]: https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b56ddad0-23ea-4139-a200-c76c9c46e8c5.jpg?1562656615
-[Mogg Assassin]: https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/1124725d-e643-43a1-873e-255636c7f334.jpg?1562087337
-[Dreamshaper Shaman]: https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6b04ec8-68c9-468c-b137-707db994af68.jpg?1581480098
-[Treasure Keeper]: https://c1.scryfall.com/file/scryfall-cards/large/front/d/c/dc2808aa-1f30-42c3-a2d1-c9eb91828e66.jpg?1599710195
-[Minotaur Explorer]: https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/55725e38-d60a-41a2-93b0-2eefe6d2cc59.jpg?1562910687
-[Dwarven Strike Force]: https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a2bc3d85-5ba1-4f2e-a676-be989bdb04f7.jpg?1562925354
-[Chain Lightning]: https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b7cef88c-0ad6-47c4-b6c8-f989586aa635.jpg?1601077393
-[Chain of Plasma]: https://c1.scryfall.com/file/scryfall-cards/large/front/f/9/f94aa774-9036-4016-8880-4bde2710cb90.jpg?1562954081
-[Molten Birth]: https://c1.scryfall.com/file/scryfall-cards/large/front/f/d/fd7ea3f3-900e-4dc5-ad83-1d5c5320d031.jpg?1547517333
-[Crystalline Giant]: https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/1146c418-2176-466e-8a06-f2ef6bf2b1a9.jpg?1591228515
-[Krark's Thumb]: https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1610836017
-[Chance Encounter]: https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/57817159-de10-4a68-83e1-971fa9cfee2c.jpg?1562911131
-[Fortune's Favor]: https://c1.scryfall.com/file/scryfall-cards/large/front/6/a/6a67dd08-0064-4750-adf5-07bacb0296eb.jpg?1576384123
-[Grip of Chaos]: https://c1.scryfall.com/file/scryfall-cards/large/front/d/e/defbbd3a-0e7d-4af2-b25f-9003ddad0bf5.jpg?1562535751
-[Throes of Chaos]: https://c1.scryfall.com/file/scryfall-cards/large/front/6/c/6c02cc57-f589-4c5d-b306-cceb0ab3ce8b.jpg?1562201988
+[tibalt, the fiend-blooded]: https://scryfall.com/card/ddk/41/tibalt-the-fiend-blooded
+[reckless wurm]: https://scryfall.com/card/uma/144/reckless-wurm
+[violent eruption]: https://scryfall.com/card/c19/154/violent-eruption
+[fiery temper]: https://scryfall.com/card/c19/142/fiery-temper
+[scourge devil]: https://scryfall.com/card/mm3/111/scourge-devil
+[vithian stinger]: https://scryfall.com/card/mm3/115/vithian-stinger
+[unearth]: https://scryfall.com/card/mh1/113/unearth
+[goblin bangchuckers]: https://scryfall.com/card/m12/137/goblin-bangchuckers
+[mogg assassin]: https://scryfall.com/card/exo/88/mogg-assassin
+[dreamshaper shaman]: https://scryfall.com/card/thb/130/dreamshaper-shaman
+[treasure keeper]: https://scryfall.com/card/2xm/302/treasure-keeper
+[minotaur explorer]: https://scryfall.com/card/ody/206/minotaur-explorer
+[dwarven strike force]: https://scryfall.com/card/ody/188/dwarven-strike-force
+[chain lightning]: https://scryfall.com/card/jmp/302/chain-lightning
+[chain of plasma]: https://scryfall.com/card/ons/193/chain-of-plasma
+[molten birth]: https://scryfall.com/card/uma/140/molten-birth
+[crystalline giant]: https://scryfall.com/card/iko/234/crystalline-giant
+[krark's thumb]: https://scryfall.com/card/mrd/190/krarks-thumb
+[chance encounter]: https://scryfall.com/card/ody/182/chance-encounter
+[fortune's favor]: https://scryfall.com/card/emn/61/fortunes-favor
+[grip of chaos]: https://scryfall.com/card/scg/98/grip-of-chaos
+[throes of chaos]: https://scryfall.com/card/mh1/150/throes-of-chaos
