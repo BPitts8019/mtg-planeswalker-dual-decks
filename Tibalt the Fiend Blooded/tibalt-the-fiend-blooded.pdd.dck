@@ -1,3 +1,43 @@
-NAME:Tibalt the Fiend-Blooded
-LAYOUT MAIN:(0,0)(CMC,false,50)|
+1 [ISD:128] Ashmouth Hound
+1 [JUD:79] Barbarian Bully
+1 [M10:128] Burning Inquiry
+1 [ONS:193] Chain of Plasma
+1 [ODY:182] Chance Encounter
+1 [TOR:94] Crazed Firecat
+1 [IKO:234] Crystalline Giant
+1 [THB:130] Dreamshaper Shaman
+1 [ODY:188] Dwarven Strike Force
+1 [SOI:156] Fiery Temper
+1 [SCG:98] Grip of Chaos
+1 [CHK:170] Hanabi Blast
+1 [DKA:157] Haunted Fengraf
+1 [TSP:164] Ignite Memories
+1 [MRD:190] Krark's Thumb
+1 [EXO:86] Mage il-Vec
+1 [ODY:206] Minotaur Explorer
+1 [EXO:88] Mogg Assassin
+1 [M14:147] Molten Birth
+1 [JUD:97] Planar Chaos
+1 [MH1:143] Ravenous Giant
+1 [MMQ:326] Sandstone Needle
+2 [MH1:150] Throes of Chaos
+1 [WAR:147] Tibalt's Rager
+1 [AER:177] Treasure Keeper
+1 [TOR:117] Violent Eruption
+1 [SHM:108] Wild Swing
+1 [TMP:212] Wild Wurm
+1 [DST:161] Wirefly Hive
+1 [M12:137] Goblin Bangchuckers
+1 [CM2:246] Dormant Volcano
+1 [SHM:274] Madblind Mountain
+1 [JMP:302] Chain Lightning
+1 [JMP:328] Goblin Lore
+1 [AVR:161] Tibalt, the Fiend-Blooded
+1 [MM3:115] Vithian Stinger
+1 [UMA:144] Reckless Wurm
+1 [MM3:111] Scourge Devil
+1 [CM2:110] Ingot Chewer
+10 [SLD:106] Mountain
+10 [SLD:107] Mountain
+LAYOUT MAIN:(1,8)(CMC,false,50)|([CM2:246],[DKA:157],[SHM:274],[MMQ:326],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:106],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107],[SLD:107])([M10:128],[JMP:302])([ISD:128],[ONS:193],[JMP:328],[MRD:190],[ODY:206],[WAR:147],[AVR:161])([JUD:79],[IKO:234],[SOI:156],[CHK:170],[EXO:86],[EXO:88],[M14:147],[JUD:97],[DST:161],[MM3:115])([ODY:182],[M12:137],[MH1:143],[MH1:150],[MH1:150],[AER:177],[TOR:117],[SHM:108],[TMP:212])([ODY:188],[TSP:164],[UMA:144],[MM3:111],[CM2:110])([THB:130],[SCG:98])([TOR:94])
 LAYOUT SIDEBOARD:(0,0)(CMC,false,50)|
